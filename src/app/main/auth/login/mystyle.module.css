@@ -1,0 +1,8 @@
+.hide{
+    visibility: hidden ;
+    
+    /* background-color: red; */
+}
+.view{
+    margin-bottom: 10px;
+}
